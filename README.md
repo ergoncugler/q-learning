@@ -150,7 +150,7 @@ class Environment3D:
             return state
 ```
 
-There was an approximate disparity of ~ 65 episodes for the 2D setting, while the 3D scenario required roughly ~ 1450 episodes until stabilization. The difference between 65 episodes and 1450 episodes is approximately 22-fold, indicating that transitioning from the 2D to the 3D environment demands approximately 22 times more episodes for learning to stabilize. This stark contrast underscores the substantial increase in computational effort and time required when extending the learning framework from two dimensions to three.
+**Results:** There was an approximate disparity of ~ 65 episodes for the 2D setting, while the 3D scenario required roughly ~ 1450 episodes until stabilization. The difference between 65 episodes and 1450 episodes is approximately 22-fold, indicating that transitioning from the 2D to the 3D environment demands approximately 22 times more episodes for learning to stabilize. This stark contrast underscores the substantial increase in computational effort and time required when extending the learning framework from two dimensions to three.
 
 ___
 
