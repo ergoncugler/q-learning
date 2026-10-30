@@ -166,7 +166,7 @@ Ergon Cugler de Moraes Silva, from Brazil, mailto: <a href="contato@ergoncugler.
 
 ### How to Cite it:
 
-**SILVA, Ergon Cugler de Moraes. From Two-Dimensional to Three-Dimensional Environment with Q-Learning: Modeling Autonomous Navigation with Reinforcement Learning and no Libraries. (mar) 2024. Avaliable at: <a>https://github.com/ergoncugler/q-learning/<a>.**
+**SILVA, Ergon Cugler de Moraes. From Two-Dimensional to Three-Dimensional Environment with Q-Learning: Modeling Autonomous Navigation with Reinforcement Learning and no Libraries. (mar) 2024. Available at: <a>https://github.com/ergoncugler/q-learning/<a>.**
 
 ___
 
